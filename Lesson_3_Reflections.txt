@@ -13,3 +13,7 @@ A3) Forks can only be done on GitHub, clones can be done on both local computers
 Q4) What is the benefit of having a copy of the last known state of the remote stored locally?
 
 A4) It helps one be able to revert changes back to a working state.
+
+Q5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+A5) One could collaborate using cloud technology. It would just be someone harder to keep track of the changes that are made. 
