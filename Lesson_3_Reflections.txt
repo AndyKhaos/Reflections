@@ -9,3 +9,7 @@ A2) You might not want some changes to be reflected in your remote repository.
 Q3) Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 A3) Forks can only be done on GitHub, clones can be done on both local computers and github, and branches are created on one repository.
+
+Q4) What is the benefit of having a copy of the last known state of the remote stored locally?
+
+A4) It helps one be able to revert changes back to a working state.
