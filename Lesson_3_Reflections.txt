@@ -5,3 +5,7 @@ A1) When there are multiple users contributing to the same repository.
 Q2) Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 A2) You might not want some changes to be reflected in your remote repository.
+
+Q3) Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A3) Forks can only be done on GitHub, clones can be done on both local computers and github, and branches are created on one repository.
